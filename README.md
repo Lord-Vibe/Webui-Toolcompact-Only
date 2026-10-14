@@ -24,6 +24,3 @@ Target: Open WebUI v0.12.0. Pure Python, ARM64/aarch64 and x86-64.
 
 ## Security
 Tool outputs are untrusted data. This plugin makes no network calls, uses no architecture-specific libraries, and requires no new packages beyond Open WebUI's Pydantic dependency.
-
-## Publishing
-No personal identifiers, paths, hardware names, or credentials are included. Review Git commit author metadata and repository account identity before publishing.
